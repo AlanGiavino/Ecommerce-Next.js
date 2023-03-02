@@ -1,25 +1,98 @@
+<h1 align="center">Next.js Ecommerce</h1>
+<h5 align="center">Simple and fabolous Ecommerce Web</h5><br/>
 
-Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80711598/222526891-41d0d1bb-3143-4329-9bcc-fd3c9f1a8824.png" alt="Sublime's custom image"/>
+</p>
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+<br/>
 
-**Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project that you can currently find on YouTube!
+## ▶️ Demo
 
-In this video, you'll learn:
-- Advanced React Best Practices such as
-    - Folder and file structure, hooks and refs
-- Advanced State Management of the entire application using React Context API
-- Next.js Best Practices such as
-    - File-based routing, Data fetching that allows server-side rendering and static generation which makes your websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and you’ll also learn how to use Next.js as a backend endpoint.
-- You’ll learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
-- And most importantly you’ll learn how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
-- Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
-- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
+Here you can find the demo link:
 
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
-![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
-![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
-![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
-![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png)
-![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
+- [Demo](https://boat-ecommerce-nextjs.vercel.app/)
+
+<br/>
+
+## :rocket: Technologies
+
+- [Next.js](https://nextjs.org/)
+- [Stripe](https://stripe.com/)
+- [Sanity](https://www.sanity.io/)
+- [Vercel](https://vercel.com/) for the deploy.
+
+   <br/>
+
+## 📸 Screenshots
+![Image of Next.js Ecommerce](https://user-images.githubusercontent.com/80711598/222526933-b27fb3dc-7c8e-44da-8a82-9712ef446a99.png)
+
+<br/>
+
+![Image of Next.js Ecommerce](https://user-images.githubusercontent.com/80711598/222526938-a551fba9-cab6-4674-bb0e-b9e9aeaf01a6.png)
+
+<br/>
+
+![Image of Next.js Ecommerce](https://user-images.githubusercontent.com/80711598/222526946-1e990133-7bda-4ed7-abac-b6ec2b000062.png)
+
+<br/>
+
+![Image of Next.js Ecommerce](https://user-images.githubusercontent.com/80711598/222526949-97863373-c1b4-46c4-b633-b39909ec9d12.png)
+
+<br/>
+
+## 👨🏻‍💻 Run Locally
+
+- Clone the project
+
+```bash
+  git clone https://github.com/AlanGiavino/Ecommerce-Next.js.git
+```
+
+- Go to the project directory
+
+```bash
+  cd ecommerce/
+```
+
+- Install dependencies
+
+```bash
+  npm install
+```
+
+- Create a .env file
+
+- Request an API key from TMDB and them add it to the .env file
+
+```
+NEXT_PUBLIC_SANITY_TOKEN= YOUR SANITY TOKEN
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = YOUR STRIPE TOKEN
+NEXT_PUBLIC_STRIPE_SECRET_KEY = YOUR STRIPE SECRET TOKEN
+```
+
+- Open another console
+
+```bash
+  cd ecommerce/
+  cd sanity_ecommerce/
+```
+
+- Install dependencies
+
+```bash
+  npm install
+```
+- Start the server ecommerce/
+
+```bash
+  npm start
+```
+
+## Requirements
+
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+<br/>
+<br/>
+
+## 🤗 Thanks for Watching
